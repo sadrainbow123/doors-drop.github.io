@@ -1,0 +1,6 @@
+[
+  { "id": "lighter", "name": "Lighter", "rarity": "Common", "chance": 45, "img": "/items/lighter.png" },
+  { "id": "lockpick", "name": "Lockpick", "rarity": "Common", "chance": 30, "img": "/items/lockpick.png" },
+  { "id": "crucifix", "name": "Crucifix", "rarity": "Legendary", "chance": 4, "img": "/items/crucifix.png" },
+  { "id": "seek", "name": "Seek Figure", "rarity": "Mythic", "chance": 1, "img": "/items/seek.png" }
+]
